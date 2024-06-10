@@ -1,9 +1,16 @@
-# Reverse Shells with Netcat and Metasploit
-Welcome to the project documentation on creating reverse shells using Netcat and Metasploit. This guide provides step-by-step instructions and practical examples for setting up reverse shells in Linux and Windows, a crucial technique in penetration testing.
+# 🎩 Reverse Shell Magic: A Netcat & Metasploit Guide 🕵️‍♂️
 
-## Overview
-This PDF document includes:
+Welcome to the exciting world of reverse shells! 🌐 Whether you're a cybersecurity enthusiast or a curious explorer, this guide will walk you through setting up reverse shells using Netcat and Metasploit. Get ready to dive into some tech wizardry! 🧙‍♂️
 
-* Setup instructions for reverse shells with Netcat and Metasploit.
-* Methods to test and obfuscate payloads.
-* Practical tips and considerations for penetration testing.
+## 📚 What's in the Guide?
+
+- **Netcat Know-How**: Learn the ins and outs of setting up reverse shells with the trusty Netcat.
+- **Metasploit Mastery**: Explore the powerful Metasploit framework for all your shell needs.
+- **Testing & Evasion**: Discover techniques to test and obfuscate your payloads.
+
+## 📥 Download the Full Guide
+
+Download the complete PDF guide here:
+
+👉 [Reverse Shell Magic: Netcat & Metasploit Guide](./Siwinska_FinalProject.pdf)
+
