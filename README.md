@@ -12,5 +12,5 @@ Welcome to the exciting world of reverse shells! 🌐 Whether you're a cybersecu
 
 Download the complete PDF guide here:
 
-👉 [Reverse Shell Magic: Netcat & Metasploit Guide](./Siwinska_FinalProject.pdf)
+👉 [Reverse Shell Magic: Netcat & Metasploit Guide](./Simple_Payload_Kali.pdf)
 
